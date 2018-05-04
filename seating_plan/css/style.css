@@ -1,0 +1,21 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    z-index: 0;
+    background-color: white;
+}
+
+nav {
+    background: #0c2461;
+}
+
+.btn_prop {
+    background-color: #0c2461;
+    border: solid #0c2461;
+}
+
+.input_prop {
+    border: 2 solid #0c2461;
+}
