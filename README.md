@@ -1,2 +1,2 @@
 # SeatingPlan
-Seating Plan Front End
+University seating plan
